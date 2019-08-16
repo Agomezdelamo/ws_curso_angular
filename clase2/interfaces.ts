@@ -1,15 +1,15 @@
 interface XmenInterface {
-  nombre:string,
-  poder: string
+  nombre: string;
+  poder: string;
 }
 
-function enviarMision(xmen:XmenInterface) {
-  console.log("enviando a: " + xmen.nombre);
+function enviarMision(xmen: XmenInterface) {
+  console.log('enviando a: ' + xmen.nombre);
 }
 
-let wolverine:XmenInterface = {
-  nombre: "wolverine",
-  poder: "Regeneracion"
-}
+let wolverine: XmenInterface = {
+  nombre: 'wolverine3',
+  poder: 'Regeneracion'
+};
 
 enviarMision(wolverine);
