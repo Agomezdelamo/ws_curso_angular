@@ -9,7 +9,7 @@ function enviarMision(xmen: XmenInterface) {
 
 let wolverine: XmenInterface = {
   nombre: 'wolverine3',
-  poder: 'Regeneracion'
+  poder: 'Regeneracion3'
 };
 
 enviarMision(wolverine);
