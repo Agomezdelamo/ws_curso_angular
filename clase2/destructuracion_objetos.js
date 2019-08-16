@@ -19,7 +19,7 @@ var poder2 = avenger.poder;
 //variables individuales las propiedades del objeto,
 // da igual el orden de las propiedades al desesctructurarlo,
 // lo importante es que existan en el objeto.
-//GENERO 3 VARIABLES QUE SON PROPIEDADES DEL OBJETO AVENGER
+//GENERO 3 VARIABLES QUE SON PROPIEDADESs DEL OBJETO AVENGER
 var clave = avenger.clave,
   poder = avenger.poder,
   nombre = avenger.nombre;
