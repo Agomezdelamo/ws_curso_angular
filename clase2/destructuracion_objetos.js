@@ -6,9 +6,9 @@ es decir, pasas varias propiedades de un objeto complejo
 a variables simples de una forma practica.
 */
 var avenger = {
-  nombre: 'Steves',
-  clave: 'Capitan America',
-  poder: 'Drogarrr'
+  nombre: 'Steve',
+  clave: 'Capitan America dark',
+  poder: 'Droga'
 };
 var nombre2 = avenger.nombre;
 var clave2 = avenger.clave;
@@ -19,7 +19,7 @@ var poder2 = avenger.poder;
 //variables individuales las propiedades de l objeto,
 // da igual el orden de las propiedades al desesctructurarlo,
 // lo importante es que existan en el objeto.
-//GENERO 3 VARIABLES QUE SON PROPIEDADESs DEL OBJETO AVENGER
+//GENERO 3 VARIABLES QUE SON PROPIEDADES DEL OBJETO AVENGER
 var clave = avenger.clave,
   poder = avenger.poder,
   nombre = avenger.nombre;
