@@ -1,2 +1,3 @@
-"use strict";
-console.log("hola soy el tercer archivo");
+'use strict';
+console.log('hola soy el tercer archivo3');
+console.log('hola soy el tercer archivo3');
