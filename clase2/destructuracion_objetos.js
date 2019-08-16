@@ -6,9 +6,15 @@ es decir, pasas varias propiedades de un objeto complejo
 a variables simples de una forma practica.
 */
 var avenger = {
+<<<<<<< HEAD
   nombre: 'Steves',
   clave: 'Capitan America',
   poder: 'Drogarrr'
+=======
+  nombre: 'Steve',
+  clave: 'Capitan America dark',
+  poder: 'Drogasss'
+>>>>>>> cdc04a6d5d7dbaec2d78d2d92ba446d5c6e17348
 };
 var nombre2 = avenger.nombre;
 var clave2 = avenger.clave;
