@@ -8,7 +8,7 @@ a variables simples de una forma practica.
 var avenger = {
   nombre: 'Steve',
   clave: 'Capitan America dark',
-  poder: 'Droga'
+  poder: 'Drogasss'
 };
 var nombre2 = avenger.nombre;
 var clave2 = avenger.clave;
