@@ -6,17 +6,17 @@ es decir, pasas varias propiedades de un objeto complejo
 a variables simples de una forma practica.
 */
 var avenger = {
-  nombre: 'Steve',
-  clave: 'Capitan America dark',
-  poder: 'Drogasss'
+  nombre: 'Steves',
+  clave: 'Capitan America',
+  poder: 'Drogarrr'
 };
 var nombre2 = avenger.nombre;
 var clave2 = avenger.clave;
 var poder2 = avenger.poder;
 //desestructuracion old schooll1
 /////////////////////////AHORA CON ES6 ///////////////
-//ahora en una sola linea de código desmontamos en
-//variables individuales las propiedades de l objeto,
+//ahora en una  sola linea de código desmontamos en
+//variables individuales las propiedades del objeto,
 // da igual el orden de las propiedades al desesctructurarlo,
 // lo importante es que existan en el objeto.
 //GENERO 3 VARIABLES QUE SON PROPIEDADES DEL OBJETO AVENGER
