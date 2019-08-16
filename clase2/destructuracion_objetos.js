@@ -16,7 +16,7 @@ var poder2 = avenger.poder;
 //desestructuracion old schooll
 /////////////////////////AHORA CON ES6 ///////////////
 //ahora en una sola linea de código desmontamos en
-//variables individuales las propiedades del objeto,
+//variables individuales las propiedades de l objeto,
 // da igual el orden de las propiedades al desesctructurarlo,
 // lo importante es que existan en el objeto.
 //GENERO 3 VARIABLES QUE SON PROPIEDADESs DEL OBJETO AVENGER
