@@ -14,7 +14,7 @@ var nombre2 = avenger.nombre;
 var clave2 = avenger.clave;
 var poder2 = avenger.poder;
 //desestructuracion old schooll
-/////////////////////////AHORA CON ES6 ///////////////
+/////////////////////////AHORA CON ES6 ////////////////
 //ahora en una  sola linea de código desmontamos en
 //variables individuales las propiedades del objeto,
 // da igual el orden de las propiedades al desesctructurarlo,
